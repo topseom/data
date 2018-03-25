@@ -1,0 +1,18 @@
+{
+    "banner":"https://wallscover.com/images/hardcore-henry-wallpaper-8.jpg",
+    "categories":[
+        {
+            "id":"1",
+            "title":"comedy",
+            "image":"https://i.pinimg.com/originals/82/9d/1f/829d1ff2e8a7b524f2df866969e9a93d.jpg"
+        },{
+            "id":"2",
+            "title":"action",
+            "image":"https://www.bestadventuremovielist.com/images2/centurion.jpg"
+        },{
+            "id":"3",
+            "title":"horror",
+            "image":"https://qph.fs.quoracdn.net/main-qimg-c948d46af65140fa4e1b92f4fd578535-c"
+        }
+    ]
+}
