@@ -1,0 +1,174 @@
+[
+    {
+        "title":"bicycle",
+        "intro":"We ride our bikes each day taking in all the sights along the way, and then we'll enjoy dinner parties and a comfortable night's sleep after a day",
+        "date":"20 - 23 Nov",
+        "image":"https://7space.sgp1.digitaloceanspaces.com/O413/1557206314.a52d80d8485a470764f34559aadf8655.png",
+        "description":"Looking for bicycle races and events to join in Thailand? Look no further than the BicycleThailand.com Events Calendar. Updated periodically to reflect the most up-to-date information regarding bicycle races and events happening in cities and provinces throughout Thailand, our calendar is the most comprehensive english language list available online. We source and translate Thai language information and make it available to our readers on a monthly basis. We also maintain a large archive that we utilize to anticipate monthly and annual events.",
+        "lat":"18.706527",
+        "long":"98.982048",
+        "features":[
+            {
+                "title":"provided",
+                "options":[
+                    { "title":"water" },
+                    { "title":"lunch" }
+                ]
+            },{ 
+                "title":"prepare",
+                "options":[
+                    { "title":"bicycle" }
+                ]
+            }
+        ]
+    },{
+        "title":"orchestra music",
+        "intro":"Our musical events are curated to enchant a multitude of audiences. From classical music to movie music to opera and chamber music",
+        "date":"1 Dec",
+        "image":"https://7space.sgp1.digitaloceanspaces.com/O413/1557206313.72bd526811e3058415dfcd1b40101cc4.png",
+        "description":"The music of conductor, pianist and composer Leonard Bernstein is an exciting combination of classical, jazz, and popular song traditions. In West Side Story, the American genius also managed to provide audiences with the spirit of Latin sounds. Orchestral music doesn’t get more exciting than the symphonic dances from the musical beloved by all nations: West Side Story.",
+        "lat":"13.758977",
+        "long":"100.492322",
+        "features":[
+            {
+                "title":"provided",
+                "options":[
+                    { "title":"light meal" },
+                    { "title":"water" }   
+                ]
+            }
+        ]
+    },{
+        "title":"surfing",
+        "intro":" international surf travel agency World Surfaris have ... And finally, thanks to everyone who attended the event, sat on the beach and got",
+        "date":"30 Nov - 2 Dec",
+        "image":"https://7space.sgp1.digitaloceanspaces.com/O413/1557206313.ad0c7405863e710b123b5a56d9699af9.png",
+        "description":"The surfers that get the best results get to move on to the next round. And so on, until the finals. When it’s a heat of 4 surfers, the 2 first one get to go to the next round. When it’s a men to men/women to women heat (2 surfers), the first one moves on and the second gets eliminated.",
+        "lat":"7.816713",
+        "long":"98.299420",
+        "features":[
+            {
+                "title":"provided",
+                "options":[
+                    { "title":"lunch" },
+                    { "title":"dining" }    
+                ]
+            },{
+                "title":"prepare",
+                "options":[
+                    { "title":"surf board" }   
+                ]
+            }
+        ]
+    },{
+        "title":"maroon 5 concert",
+        "intro":" Maroon 5 will come to Bangkok for the fifith time to perform on Feb 3, Now that's a long time away",
+        "date":"3 - 5 Feb",
+        "image":"https://7space.sgp1.digitaloceanspaces.com/O413/1557206314.30e7341087c0dac42036b63108885d5c.png",
+        "description":"Maroon 5 is back in town! Assure your tickets for a concert you will not forget and experience Maroon 5 Bangkok at the one and only Impact Arena, Muang Thong Thani. At StubHub we offer you the best tickets available, so buy your Maroon 5 Bangkok tickets here and now at StubHub, you won’t regret it!",
+        "lat":"13.912590",
+        "long":"100.547659",
+        "features":[
+            {
+                "title":"provided",
+                "options":[
+                    { "title":"water" }
+                ]
+            }
+        ]
+    },{
+        "title":"sunset dinner",
+        "intro":"Enjoy a cocktail at sunset. Have a culinary ... We've crafted several food and beverage menus designed to cater diverse social requirements.",
+        "date":"2 June",
+        "image":"https://7space.sgp1.digitaloceanspaces.com/O413/1557206313.c0d34d95cf08f49baf418c854afd8f63.png",
+        "description":"Experience our cuisine, composed of contrasting and complimentary flavors. Come and witness the dramatic views of the Sayan Gorge. Enjoy a cocktail at sunset. Have a culinary experience like no other in one of the best restaurants in Ubud, Bali.",
+        "lat":"13.723712",
+        "long":"100.528874",
+        "features":[
+            {
+                "title":"provided",
+                "options":[
+                    { "title":"dining" }
+                ]
+            }   
+        ]
+    },{
+        "title":"camping",
+        "intro":"Welcome to the largest camping event in the world! Whether you're looking to relax, network, make new friends or just mingle with other like-minded",
+        "date":"11 - 14 May",
+        "image":"https://7space.sgp1.digitaloceanspaces.com/O413/1557206313.1c289dd0668495ddc2bee1d72300ffe3.png",
+        "description":"Spend time with your family and unwind in the forest for a few days by camping or caravanning at Tackeroo. Facilities are limited to sanilav points and running water and you must bring your own toilet.",
+        "lat":"18.588124",
+        "long":"98.487061",
+        "features":[
+            {
+                "title":"provided",
+                "options":[
+                    { "title":"breakfast" },
+                    { "title":"lunch" },
+                    { "title":"dining" }
+                ]
+            }   
+        ]
+    },{
+        "title":"mountain climbing",
+        "intro":"If you wish to attend the festival and join the competition, please visit us at Nam ... register for the competition in order to participate in the climbing competition",
+        "date":"3 - 6 Aug",
+        "image":"https://7space.sgp1.digitaloceanspaces.com/O413/1557206314.106069ecb5a9b29e7db637c1a12a9364.png",
+        "description":"We specialize in giving each customer – no matter what age or experience level – the best possible care on each of our trips. We love what we do, and our guides climb all year-round. When they’re not working, you’ll often find them at the crag with friends climbing for fun! Each and every one of our guides are passionate climbers who strive to provide you with an unforgettable adventure.  As a small family business, we take pride in our work and want to be remembered as the best part of your holiday experience!",
+        "lat":"11.785042",
+        "long":"99.816154",
+        "features":[
+            { 
+                "title":"provided",
+                "options":[
+                    { "title":"breakfast" },
+                    { "title":"water" }
+                ]
+            },{
+                "title":"prepare",
+                "options":[
+                    { "title":"climbing tools" }
+                ]
+            }
+        ]
+    },{
+        "title":"library",
+        "intro":"The library offers many programs for children, teens and adults. Whether it's story times, open computer labs, job hunting",
+        "date":"17 - 20 Feb",
+        "image":"https://7space.sgp1.digitaloceanspaces.com/O413/1557206314.dd81fad1994654212922ecf02e2d6e3e.png",
+        "description":"Whether you are looking for the latest crime thriller, a recipe for a dinner party or far-flung travel ideas – you will find inspiration here, along with many books on the Southeast Asian region (including some early editions) that are difficult to find elsewhere.",
+        "lat":"13.772313",
+        "long":"100.505115",
+        "features":[
+            { 
+                "title":"provided",
+                "options":[
+                    {
+                        "title":"a lot of book"
+                    },{
+                        "title":"water"
+                    }
+                ]
+            }
+        ]
+    },{
+        "title":"skydiving",
+        "intro":"he biggest consumer skydiving event in the world. This must-attend free event features exciting and educational talks from some of the biggest names in our sport",
+        "date":"13 - 15 Nov",
+        "image":"https://7space.sgp1.digitaloceanspaces.com/O413/1557206313.f5e7c098a024e7955f334e712299802f.png",
+        "description":"Feel the adrenaline boost when you jump out a plane at 4,000 meters up and rush towards the earth with speeds of up to 190 kilometers per hour. Enjoy the incredible freedom of flying in the air forward, sideways and backwards.",
+        "lat":"12.931254",
+        "long":"100.878630",
+        "features":[]
+    },{
+        "title":"yachts",
+        "intro":"Keep on top of all the important yachting events around the world - everything from boat shows and regattas to professional seminars and crew events.",
+        "date":"23 Sep - 5 Oct",
+        "image":"https://7space.sgp1.digitaloceanspaces.com/O413/1557206313.f6a6d8d8a2bceaabad2d13cc6a7c97c3.png",
+        "description":"Phuket Situated in the Ocean Marina complex, Simpson Marine Pattaya is ideally located to support all your yachting needs in this beautiful location with very convenient access to Bangkok, Thailand’s cultural jewel.",
+        "lat":"7.819915",
+        "long":"98.350010",
+        "features":[]
+    }
+]
